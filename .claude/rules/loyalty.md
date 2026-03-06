@@ -1,0 +1,1 @@
+/home/arago/.claude/rules/loyalty-profile.md
